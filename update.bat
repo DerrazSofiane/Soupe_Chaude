@@ -1,0 +1,1 @@
+C:\Users\derra\AppData\Local\Programs\Python\Python37 C:\wamp64\www\soupe\scrap\updateddb.py
